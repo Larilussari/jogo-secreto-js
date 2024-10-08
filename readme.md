@@ -1,0 +1,1 @@
+Este é um jogo para acertar qual o número que o computador esta pensando!git remote -v
