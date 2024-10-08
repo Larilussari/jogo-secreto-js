@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio()
 let tentativas = 1
 
@@ -8,7 +8,7 @@ let tentativas = 1
 //titulo.innerHTML = 'Jogo do número secreto'; //inner = dentro .. inner html = dentro do html.. estamos puxando algo dentro do html
 
 //let paragrafo = document.querySelector('p');
-//paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
+//paragrafo.innerHTML = 'Escolha um número entre 1 e 100';
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
